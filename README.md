@@ -1,2 +1,2 @@
-# laravue-mix
-Template for Laravel - vue using larave-mix for compile the script
+# laravue
+Template for Laravel - vue using laravel-mix for compile the script
