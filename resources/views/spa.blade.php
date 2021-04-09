@@ -8,6 +8,12 @@
     <script src="/js/app.js"></script>
 </head>
 <body>
-    <div id="#app"></div>
+    <noscript>
+        <strong
+          >We're sorry but this app doesn't work properly without JavaScript
+          enabled. Please enable it to continue.</strong
+        >
+    </noscript>
+    <div id="app"></div>
 </body>
 </html>
