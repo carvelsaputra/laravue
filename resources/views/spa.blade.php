@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Laravue</title>
-    <script src="/js/app.js"></script>
+    <script src="/spa/index.js"></script>
 </head>
 <body>
     <noscript>
@@ -14,6 +14,6 @@
           enabled. Please enable it to continue.</strong
         >
     </noscript>
-    <div id="app"></div>
+    <div id="#app"></div>
 </body>
 </html>
