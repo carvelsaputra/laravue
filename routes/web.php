@@ -17,8 +17,5 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 use App\Http\Controllers as Ctrl;
-Route::get("/spa/index.js",function(){
-include "../public/spa/index.js";
-});
 
 Route::get('/{spa_router}', [Ctrl\SpaController::class, 'render'])->where('spa_router', '.*');
