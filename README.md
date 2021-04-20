@@ -61,10 +61,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Support Me
+## Your Support always appreciated :)
 
 ### Indonesia
-- Bank Central Asia [REK: 0450917478 (Carvel Saputra Martaloho)]
+Bank Central Asia [No. Rek: 0450917478 (Carvel Saputra Martaloho)]
 
 
 ---
