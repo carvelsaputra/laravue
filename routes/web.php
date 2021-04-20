@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/', function () {
 //     return view('welcome');
 // });
-Route::get('/{spa_router}', function() {
-    return view('spa');
-})->where('spa_router', '.*');
+use App\Http\Controllers as Ctrl;
+
+Route::get('/{spa_router}', [Ctrl\SpaController::class, 'render'])->where('spa_router', '.*');
