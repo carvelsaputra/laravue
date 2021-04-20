@@ -2,6 +2,6 @@
 
 Laravue is a boilerplate for Laravel - Vue.js using laravel-mix for compile the script.
 
-## Resources folder
+## pages folder
 
-is used for our directories front-end code and script
+In here, we make our pages folder for client side render the view.

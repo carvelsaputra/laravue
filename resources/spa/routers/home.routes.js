@@ -1,5 +1,5 @@
-import Home from "../components/Home.vue"
-import Example from "../components/Example.vue"
+import Home from "../pages/home.vue"
+import Example from "../pages/example.vue"
 export default [
     {
         path: "/",
