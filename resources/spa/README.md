@@ -4,8 +4,8 @@ Laravue is a boilerplate for Laravel - Vue.js using laravel-mix for compile the 
 
 ## spa folder
 
-Is our root folder for keep the Vue.js file
-theres is some folders and 1 file main index.js include :
+Is our root folder to keep the Vue.js file
+there some folders and 1 file main index.js include :
 
 -   components
 -   layouts

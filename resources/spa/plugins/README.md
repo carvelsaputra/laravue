@@ -2,6 +2,6 @@
 
 Laravue is a boilerplate for Laravel - Vue.js using laravel-mix for compile the script.
 
-## components folder
+## plugins folder
 
-is a folder for make a custom components that will called inside pages folder
+is a place that we can import plugins for your project.
