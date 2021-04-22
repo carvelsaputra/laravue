@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "carvel/laravue": "dev-main@1.0.0",
+        "carvel/laravue": "dev-main@dev",
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
@@ -32,6 +32,7 @@
         "nunomaduro/collision": "^5.0",
         "phpunit/phpunit": "^9.3.3"
     },
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Carvel Saputra Martaloho",
