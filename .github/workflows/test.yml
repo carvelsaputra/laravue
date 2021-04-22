@@ -29,10 +29,10 @@ jobs:
     - name: Directory Permissions
       run: chmod -R 777 storage bootstrap/cache
       
-    - name: Create Database
-      run: |
-        mkdir -p database
-        touch database/database.sqlite
+    # - name: Create Database
+    #  run: |
+    #    mkdir -p database
+    #    touch database/database.sqlite
         
     - name: Install Frontend Dependencies
       run: npm ci
@@ -41,7 +41,7 @@ jobs:
       run: npm run prod
     
     - name: Execute tests access "/" page
-      env:
-        DB_CONNECTION: sqlite
-        DB_DATABASE: database/database.sqlite
+    #  env:
+    #    DB_CONNECTION: sqlite
+    #    DB_DATABASE: database/database.sqlite
       run: vendor/bin/phpunit
