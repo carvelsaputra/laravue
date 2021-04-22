@@ -8,6 +8,9 @@
         "Vue.js",
         "monolith"
     ],
+    "require": {
+        "carvel/laravue": ">=1.0"
+    },
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
