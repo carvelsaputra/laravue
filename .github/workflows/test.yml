@@ -1,4 +1,4 @@
-name: Build Testing
+name: Quality Assurance
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  laravel-tests:
+  Testing:
 
     runs-on: ubuntu-latest
 
@@ -35,7 +35,7 @@ jobs:
         touch database/database.sqlite
         
     - name: Install Frontend Dependencies
-      run: npm ci && npm run prod
+      run: npm ci
     
     - name: Building Frontend Assets Test
       run: npm run prod
