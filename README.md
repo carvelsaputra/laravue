@@ -1,3 +1,7 @@
+## Why use this ?
+this boilerplate make developer easier to make monolith Laravel project which integrated with Vue.js and vue-router as default front-end router,
+this boilerplate is high scalability perhaps if one day we as developer want to split project between front-end and back-end.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
