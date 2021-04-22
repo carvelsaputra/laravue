@@ -16,7 +16,6 @@
         }
     ],
     "require": {
-        "carvel/laravue": "dev-master@dev",
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
