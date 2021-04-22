@@ -8,11 +8,9 @@
         "Vue.js",
         "monolith"
     ],
-    "require": {
-        "carvel/laravue": ">=1.0"
-    },
     "license": "MIT",
     "require": {
+        "carvel/laravue": ">=1.0",
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
