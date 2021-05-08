@@ -8,7 +8,7 @@ this boilerplate is :
  <br>
  ✅ Free
  <br>
-and also this boilerplate make us as developer work easier perhaps one day we want to split project between front-end and back-end.
+and also this boilerplate make us as developer easier to work, perhaps one day we want to split project between front-end and back-end.
 
 ## How to use this ?
 `composer create-project carvel/laravue`, don't forget to  `npm install` and `npm run prod`
