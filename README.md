@@ -2,8 +2,11 @@
 this boilerplate make developer easier to make monolith Laravel project which integrated with Vue.js and vue-router as default front-end router,
 this boilerplate is : 
  ✅ High scalability
+ <br>
  ✅ Easy to maintenance
+ <br>
  ✅ Free
+ <br>
 and also this boilerplate make us as developer work easier perhaps one day we want to split project between front-end and back-end.
 
 ## How to use this ?
