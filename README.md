@@ -1,5 +1,5 @@
 ## Why use this ?
-this boilerplate make developer easier to make monolith Laravel project which integrated with Vue.js and vue-router as default front-end router,
+This boilerplate make developer easier to make monolith Laravel project which integrated with Vue.js and vue-router as default front-end router,
 this boilerplate is : 
 <br>
  ✅ High scalability
