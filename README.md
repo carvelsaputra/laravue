@@ -1,6 +1,10 @@
 ## Why use this ?
 this boilerplate make developer easier to make monolith Laravel project which integrated with Vue.js and vue-router as default front-end router,
-this boilerplate is high scalability perhaps if one day we as developer want to split project between front-end and back-end.
+this boilerplate is : 
+- ✅ High scalability
+- ✅ Easy to maintenance
+- ✅ Free
+and also this boilerplate make us as developer work easier perhaps one day we want to split project between front-end and back-end.
 
 ## How to use this ?
 `composer create-project carvel/laravue`, don't forget to  `npm install` and `npm run prod`
